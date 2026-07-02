@@ -1,0 +1,9 @@
+# Binaries
+/demo
+*.exe
+*.test
+*.out
+
+# Go workspace
+go.work
+go.work.sum

@@ -1,5 +1,7 @@
 # Outline SDK adapter for v2fly/v2ray-core/v5 — runnable PoC
 
+[![CI](https://github.com/ohnorobo/outline-v2ray-adapter/actions/workflows/ci.yml/badge.svg)](https://github.com/ohnorobo/outline-v2ray-adapter/actions/workflows/ci.yml)
+
 A working Outline SDK transport adapter that routes connections through a
 [`v2fly/v2ray-core/v5`](https://github.com/v2fly/v2ray-core) instance.
 
